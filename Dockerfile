@@ -1,6 +1,6 @@
 From php:7.2.2-apache
 
-MAINTAINER Krishna Vootla vootla.krishna@gmail.com
+MAINTAINER Krishna
 
 RUN apt-get update && apt-get install -y \ 
 	git \
